@@ -7,7 +7,7 @@ Images are found [here](https://openclassrooms.com/courses/apprenez-a-programmer
 ## Installation
 
 ```shell
-git clone 
+git clone https://github.com/benliev/SokobanJS
 ```
 
 ## Play
